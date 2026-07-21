@@ -1,9 +1,7 @@
 .ibm-container{
 
     display:flex;
-
     justify-content:center;
-
     margin:100px 0;
 
 }
@@ -11,13 +9,9 @@
 .ibm-button{
 
     border:none;
-
     background:none;
-
     padding:0;
-
     cursor:pointer;
-
     transition:
         transform .35s ease,
         filter .35s ease;
