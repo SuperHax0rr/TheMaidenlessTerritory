@@ -6,7 +6,7 @@ https://themaidenlessterritory.pages.dev
 
 Built with React, TypeScript and Vite.
 
-It is currently only desktop compatible, things starts overlapping on mobile.
+It is currently only desktop compatible.
 
 ## Current Status
 
